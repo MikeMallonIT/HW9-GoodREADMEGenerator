@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
+// Initilize packages needed for app to work
 const fs = require('fs');
 var inquirer = require('inquirer');
 
-// TODO: Create an array of questions for user input
+// Array with questions objects
 const questions = [
     
     {
@@ -52,7 +52,7 @@ const questions = [
         message: 'What is your email address?',
     }
 ];
-// TODO: Create a function to write README file
+// Creates the .md file given the file name which is pre-populated and the data collected from inquirer
 function writeToFile(filename, data) {
 
     let output = `
@@ -108,6 +108,7 @@ Or if you have any further questions, send us an email at: [${data.email}](mailt
 );
 }
 
+//Returns the correct badge web address based off of the user's license choice
 function badge(licences){
 
     let badge = "";
@@ -132,6 +133,7 @@ function badge(licences){
     return badge;
 }
 
+//Returns the licence description based off of the users license choice
 function info(licences){
     
     const descriptions = [
@@ -163,7 +165,9 @@ function info(licences){
     return info;
 }
 
-// TODO: Create a function to initialize app
+//Function that initilizes the application by asking the inquirer questions. 
+//Then generating the file name and calling the write function
+
 function init() {
     inquirer
         .prompt(questions)
