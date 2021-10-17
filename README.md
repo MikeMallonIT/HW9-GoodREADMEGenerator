@@ -30,7 +30,7 @@ Download all associated files in this repository including the index.html file a
 <br>
 
 ### See project tutorial:
-- [Video](https://raw.githubusercontent.com/MikeMallonIT/HW9-GoodREADMEGenerator/main/appScreenShot1.png)
+- [Video](https://watch.screencastify.com/v/Q9htqoXqrPleCwyD3GbU)
 
 <br />
 
