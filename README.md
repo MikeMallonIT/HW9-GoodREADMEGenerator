@@ -30,7 +30,7 @@ Download all associated files in this repository including the index.html file a
 <br>
 
 ### See project tutorial:
-- [Video](https://watch.screencastify.com/v/Q9htqoXqrPleCwyD3GbU)
+- [Video](https://watch.screencastify.com/v/pLLSdESmSc7dWRog7EYr)
 
 <br />
 
