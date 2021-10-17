@@ -23,14 +23,23 @@ Given this was my first go at server-side programming, I knew it would be an imp
 ## Installation:
 Download all associated files in this repository including the index.html file and all files in the assets folder. Install Node.js then use the `npm install` function. After that, CD to the directory the root application folder is installed in and use the `node index.js` function.
 
-## Usage:
+### See screenshots for assistance with install and functionality:
+- [Install](https://raw.githubusercontent.com/MikeMallonIT/HW9-GoodREADMEGenerator/main/appScreenShot2.png)
+- [Output](https://raw.githubusercontent.com/MikeMallonIT/HW9-GoodREADMEGenerator/main/appScreenShot1.png)
 
+<br>
+
+### See project tutorial:
+- [Video](https://raw.githubusercontent.com/MikeMallonIT/HW9-GoodREADMEGenerator/main/appScreenShot1.png)
 
 <br />
 
 ## Credits
 - SMU
-- https://developer.mozilla.org/
-- https://www.bestcssbuttongenerator.com
-- https://stackoverflow.com
-- https://www.w3schools.com
+- Trilogy Education Services
+- [Mozilla](https://developer.mozilla.org)
+- [W3 Schools](https://www.w3schools.com/)
+- [W3.org](https://www.w3.org/)
+- [Stack Overflow](https://stackoverflow.com)
+- [NPM](https://www.npmjs.com/package/inquirer)
+
